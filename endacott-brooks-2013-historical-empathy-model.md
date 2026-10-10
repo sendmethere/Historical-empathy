@@ -2,6 +2,7 @@
 
 > 작성일: 2026-10-10
 > 적용 사례: 마가복음 14~15장(예수 재판과 빌라도)
+> 관련 노트: [인물 시점 문서 쓰기 관련 수업 모형](./role-based-writing-models.md)
 
 ## 요약
 
@@ -127,7 +128,7 @@ Endacott는 단계별 활동을 다음과 같이 설명한다.
 
 ## 4. 참고문헌
 
-> 본문에서 언급한 문헌의 서지 정보이다. 일부 항목은 원문 대조가 필요하며 `[확인 필요]`로 표시했다.
+> 본문에서 언급한 문헌의 서지 정보이다.
 
 - Barton, K. C., & Levstik, L. S. (2004). *Teaching history for the common good*. Lawrence Erlbaum.
 - Collingwood, R. G. (1946). *The idea of history*. Oxford University Press.
@@ -140,6 +141,6 @@ Endacott는 단계별 활동을 다음과 같이 설명한다.
 - Retz, T. (2018). *Empathy and history: Historical understanding in re-enactment, hermeneutics and education*. Berghahn Books.
 - Shemilt, D. (1984). Beauty and the philosopher: Empathy in history and classroom. In A. K. Dickinson, P. J. Lee, & P. J. Rogers (Eds.), *Learning history* (pp. 39–84). Heinemann.
 - Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
-- Wilschut, A., & Schiphorst, K. (2019). 역사철학과 역사적 감정이입 개념에 관한 논문. `[확인 필요: 제목·학술지·권호]`
+- Wilschut, A., & Schiphorst, K. (2019). 'One has to take leave as much as possible of one's own standards and values': Improving and measuring historical empathy and perspective reconstruction. *History Education Research Journal, 16*(1), 74–87. https://doi.org/10.18546/HERJ.16.1.07
 - Wineburg, S. (2001). *Historical thinking and other unnatural acts: Charting the future of teaching the past*. Temple University Press.
-- 역사적 감정이입 연구 리뷰 논문(본문의 "리뷰 연구"). `[확인 필요: 저자·연도·서지]`
+- Harnes, H. B. (2025). What can empirical research tell us about how to develop students' historical empathy? A scoping review. *History Education Research Journal, 22*(1), 18. https://doi.org/10.14324/HERJ.22.1.18 (본문의 "리뷰 연구"로 추정)
